@@ -1,6 +1,7 @@
 --- |-
+ my.greeting: Hellow World from Spring cloud config server
+ 
  my:
-   greeting: Hellow World from Spring cloud config server
    list:
     values: One,Two,Three
     
