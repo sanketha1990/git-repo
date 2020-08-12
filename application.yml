@@ -1,6 +1,6 @@
 --- |-
  my:
- greeting: Hellow World from Spring cloud config server
+ greeting: Hellow World from Spring cloud config server for testing
  
  my:
    list:
